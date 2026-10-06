@@ -1,6 +1,5 @@
 package com.abhishek.bullscows.repository;
 
-import com.abhishek.bullscows.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
